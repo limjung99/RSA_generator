@@ -7,3 +7,6 @@ d 옵션으로 공개키 암호화를 복호화
 # Usage
 * build rsa_임정환.c
 * ./<exe> [-k | -e e n plaintext | -d d n ciphertext ]
+
+# Dependency
+* openssl version3.0
